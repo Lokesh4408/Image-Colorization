@@ -1,0 +1,3 @@
+siggraph17: Mean PSNR is 31.2248 dB
+eccv16: Mean PSNR is 30.0316 dB
+chromaGAN: Mean PSNR is 30.6839 dB
